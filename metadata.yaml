@@ -1,0 +1,33 @@
+_repo: The-Worlds-of-If_22890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weinbaum, Stanley G. (Stanley Grauman)
+    alias: Weinbaum, Stanley Grauman
+    birthdate: 1902
+    deathdate: 1935
+    gutenberg_agent_id: '25246'
+    url: http://www.gutenberg.org/2009/agents/25246
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_G._Weinbaum
+description: Weinbaum introduces another short story featuring the characters of Haskel
+  van Manderpootz and Dixon Wells. Dixon Wells has become infamous for his tardiness
+  and in ""The Worlds of If"", Wells explores the world of of if's, time travel, and
+  missed opportunities.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Worlds of If
+url: http://www.gutenberg.org/ebooks/22890
